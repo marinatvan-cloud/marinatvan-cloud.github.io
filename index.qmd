@@ -1,11 +1,15 @@
 ---
-title: "marinatvan-cloud.github.io"
+title: "Marina Tornorsam"
+about:
+  template: jolla
+  image: Images/Trang.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/marinatvan-cloud
 ---
 
-This is a Quarto website.
+Hello my name is Marina. Welcome to my website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+*Graduate student*
+University of British Columbia 

@@ -1,0 +1,10 @@
+---
+title: "Publications"
+format: html
+---
+
+## 2025
+
+Stat545: [Exploratory data analysis](https://ubc-stat.github.io/STAT545.github.io/)
+
+GEOS 500: Geographical sciences graduate studies

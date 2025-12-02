@@ -3,13 +3,28 @@ project:
   output-dir: docs
   
 website:
-  title: "marinatvan-cloud.github.io"
+  title: "Marina Tornorsam"
+  favicon: Images/Trang.jpg
   navbar:
+    background: light
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+        icon: house-door-fill
+      - Publications.qmd
+      - Projects
+      - Misc
+      
+  sidebar: 
+    - id: Projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents: 
+        - Projects/projectA.qmd
+        - Projects/projectB.qmd
 format:
   html:
     theme:
